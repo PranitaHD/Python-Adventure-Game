@@ -1,0 +1,2 @@
+# Python-Adventure-Game
+Language :- Python Programming. In this Adventure Game you have 4 enemies. At very first you will be asked to either Attack or Drink Health Potion or Run. While attacking you will cause damages to the enemy which in return cause you some damages either. While drinking a potion, you can drink a potion 4 times until your enemy drops their potion. At the end when your HP is less than 1, you will brought out of the game. I have used Visual Studio Code here.
